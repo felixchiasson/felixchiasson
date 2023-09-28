@@ -1,4 +1,8 @@
-![image](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=felixchiasson&theme=dracula)
+<center> ![image]([https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=felixchiasson&theme=dracula](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felixchiasson&theme=dracula)) </center>
+
+Slowly rebuilding my Github presence.
+
+
 
 <!--
 **felixchiasson/felixchiasson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
