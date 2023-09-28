@@ -1,4 +1,4 @@
-<center> ![image]([https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=felixchiasson&theme=dracula](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felixchiasson&theme=dracula)) </center>
+<center> ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felixchiasson&theme=dracula) </center>
 
 Slowly rebuilding my Github presence.
 
