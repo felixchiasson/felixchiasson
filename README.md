@@ -1,4 +1,4 @@
-![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felixchiasson&theme=dracula)
+<center><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felixchiasson&theme=dracula" /></center>
 
 Slowly rebuilding my Github presence.
 
