@@ -1,4 +1,6 @@
-<center><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felixchiasson&theme=dracula" /></center>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felixchiasson&theme=dracula" />
+</p>
 
 Slowly rebuilding my Github presence.
 
